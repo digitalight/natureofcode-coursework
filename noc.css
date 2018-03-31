@@ -1,0 +1,48 @@
+/* Nature of Code - Coursework */
+
+.pinknav {
+	background-color: #EB005A;
+	color: #fff;
+}
+
+.pinknav a{
+	color: #fff!important;
+}
+.p5panel {
+	min-height: 45vh;
+	text-align: left;
+	padding: 0;
+}
+
+.p5panel a{
+	display: block;
+	background-color: #f1f;
+	padding-top:15px;
+	padding-left:20px;
+	min-height: 100%;
+	color: #fff;
+	text-decoration: none;
+	background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.panel1 {
+    background-image:url('img/1.png');
+}
+
+.panel2 {
+    background-image:url('img/2.png');
+}
+.panel3 {
+    background-image:url('img/3.png');
+}
+.panel4 {
+    background-image:url('img/4.png');
+}
+.panel5{
+    background-image:url('img/5.png');
+}
+a.panel5{
+	    color: orange;
+	    font-weight: bold;
+}
